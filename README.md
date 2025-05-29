@@ -1,0 +1,2 @@
+# Multi-Disease-Fundus-Image-Classification-using-Transfer-Learning-LIME
+Built a deep learning model to perform multi-label disease classification on retinal fundus images using VGG16 transfer learning. Employed data augmentation, regularization, and TPU strategy for scalable and accurate training. Evaluated using AUROC and binary accuracy, with further interpretability achieved via LIME image explanations
